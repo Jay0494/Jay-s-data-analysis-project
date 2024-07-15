@@ -14,6 +14,11 @@
 ### Project Overview
 This is a real project which provides an analysis of car sales data from an American car sales business with the goal to determine the most profitable and highest-selling car models. This report includes the top 10 selling car models by revenue, the bottom 10 selling car models, and the top 10 profitable car models by profit. Based on these findings, recommendations and next steps are suggested to guide future sales strategies.
 
+![TOP 10 SELLING ](https://github.com/user-attachments/assets/5350a208-85a8-4819-a4ba-5ada2af17e6e)
+
+![TOP 10 PROFITBLE ](https://github.com/user-attachments/assets/89a63551-f5ca-4736-8965-a3a5b34b8a1f)
+
+
 
 ### Data Sources
 
