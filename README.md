@@ -40,7 +40,7 @@ In the initial data preparation stage, I performed the following tasks:
 I explored the data to answer the key business questions such as:
 1. What are the top 10 selling car Models(by revenue)
 2. What are to 10 lowest selling car models (by revenue)
-3. What are the 10p 10 most profitable car models 
+3. What are the 10 most profitable car models 
 
 ### Results 
 The financial overview reveals a total revenue of $11,968,694.69, a total profit of $1,758,133.80, and total expenses of $15,977.00. Key insights include:
